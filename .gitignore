@@ -1,0 +1,14 @@
+# Project exclude paths
+/01-HelloWorld/target/
+/02-email/email-api/target/
+/02-email/email-client/target/
+/02-email/email-v126/target/
+/02-email/email-v163/target/
+/03-listener/03-1-emailService/target/
+/03-listener/03-2-notifyService/target/
+/03-listener/03-3-Listener/target/
+/04-hook/04-1-hook-main/target/
+/04-hook/04-2-hook_client/target/
+/04-hook/04-3-hook_service/target/
+/05-declarativeService/05-1-ds_service/target/
+/05-declarativeService/05-2-ds_client/target/

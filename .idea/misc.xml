@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Osmorc" url="file://$PROJECT_DIR$/01-HelloWorld" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/02-email/email-api" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/02-email/email-client" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/02-email/email-v126" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/02-email/email-v163" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/03-listener/03-1-emailService" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/03-listener/03-2-notifyService" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/03-listener/03-3-Listener" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/04-hook/04-1-hook-main" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/04-hook/04-2-hook_client" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/04-hook/04-3-hook_service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/02-email/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/03-1-emailService/pom.xml" />
+        <option value="$PROJECT_DIR$/03-1-email_service/pom.xml" />
+        <option value="$PROJECT_DIR$/03-listener/02-1-emailService/pom.xml" />
+        <option value="$PROJECT_DIR$/04-1-hook_client/pom.xml" />
+        <option value="$PROJECT_DIR$/04-3-hook_service/pom.xml" />
+        <option value="$PROJECT_DIR$/05-1-ds_service/pom.xml" />
+        <option value="$PROJECT_DIR$/email-api/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

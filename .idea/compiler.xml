@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="email-api" />
+        <module name="01-HelloWorld" />
+        <module name="04-1-hook-main" />
+        <module name="05-1-ds_service" />
+        <module name="email-client" />
+        <module name="email-v126" />
+        <module name="03-2-notifyService" />
+        <module name="04-3-hook_service" />
+        <module name="email-v163" />
+        <module name="04-2-hook_client" />
+        <module name="03-3-Listener" />
+        <module name="03-1-emailService" />
+        <module name="05-2-ds_client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02-1-emailService" target="1.8" />
+      <module name="03-1-email_service" target="1.8" />
+      <module name="04-1-hook_main" target="1.8" />
+      <module name="email-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

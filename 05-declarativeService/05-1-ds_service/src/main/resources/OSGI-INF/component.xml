@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="component.service" immediate="true"
+           xmlns="http://www.osgi.org/xmlns/scr/v1.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.osgi.org/xmlns/scr/v1.2.0 https://osgi.org/xmlns/scr/v1.2.0/scr.xsd">
+
+    <!--	接口的实现类-->
+    <implementation class="com.hualr.declaration.MyRunner" />
+    <!--	定义服务的属性  最好和之前对比下???-->
+    <property name="from" value="APP" />
+    <!--	调用的接口是那个 也就是我们实现类的接口-->
+    <service>
+        <provide interface="java.lang.Runnable" />
+    </service>
+
+</component>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1596257003230
+Build-Jdk: 1.8.0_201
+Built-By: huale
+Bundle-ManifestVersion: 2
+Bundle-Name: email-api
+Bundle-SymbolicName: com.hualr.email-api
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.hualr.email.api;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326

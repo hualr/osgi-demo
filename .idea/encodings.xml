@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-HelloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-HelloWorld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-v126/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-v126/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-v163/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-email/email-v163/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-1-emailService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-1-emailService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-2-notifyService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-2-notifyService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-3-Listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-listener/03-3-Listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-1-hook-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-1-hook-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-2-hook_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-2-hook_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-3-hook_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hook/04-3-hook_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/05-1-ds_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/05-1-ds_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/05-2-ds_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/05-2-ds_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-declarativeService/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
